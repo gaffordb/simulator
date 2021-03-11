@@ -79,7 +79,7 @@ Alternatively, you can get source code of specific release. Here is an example h
     cd simulator
     git checkout 2020.03
 
-Check out our instructions for getting started with building from source [here](Docs/docs/build-instructions.md).
+Check out our instructions for getting started with building from source [here](https://www.lgsvlsimulator.com/docs/build-instructions/).
 
 
 ## Simulator Instructions
